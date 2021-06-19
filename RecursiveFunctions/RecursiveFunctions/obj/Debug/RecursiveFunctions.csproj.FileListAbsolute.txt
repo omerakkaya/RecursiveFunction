@@ -1,0 +1,7 @@
+C:\Users\Omer\source\repos\RecursiveFunctions\RecursiveFunctions\bin\Debug\RecursiveFunctions.exe.config
+C:\Users\Omer\source\repos\RecursiveFunctions\RecursiveFunctions\bin\Debug\RecursiveFunctions.exe
+C:\Users\Omer\source\repos\RecursiveFunctions\RecursiveFunctions\bin\Debug\RecursiveFunctions.pdb
+C:\Users\Omer\source\repos\RecursiveFunctions\RecursiveFunctions\obj\Debug\RecursiveFunctions.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\RecursiveFunctions\RecursiveFunctions\obj\Debug\RecursiveFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\RecursiveFunctions\RecursiveFunctions\obj\Debug\RecursiveFunctions.exe
+C:\Users\Omer\source\repos\RecursiveFunctions\RecursiveFunctions\obj\Debug\RecursiveFunctions.pdb
